@@ -23,6 +23,7 @@ nav {
     justify-content: center;
     gap: 30px;
     margin-bottom: 40px;
+    flex-direction: column;
 
 }
 
@@ -134,7 +135,7 @@ nav{
 }
 a.button{
     display: inline-block;
-    background: #38bdf8;
+    background: white;
     color: black;
     padding: 10px 20px;
     border-radius: 5px;
@@ -156,6 +157,7 @@ section{
     margin-bottom: 40px;
 }
 }
+
 
 
 
