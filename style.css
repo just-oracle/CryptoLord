@@ -37,6 +37,17 @@ nav a:hover{
     color: blue;
 }
 
+a.menu{
+    display: inline-block;
+    background: darkslategray;
+    color: white;
+    padding: 10px 15px;
+    border-radius: 5px;
+    margin-right: 10px;
+    margin-top: 5px;
+    text-decoration: none;
+    font-weight: bold;
+}
 section {
     margin-bottom: 60px;
     max-width: 900px;
@@ -157,6 +168,7 @@ section{
     margin-bottom: 40px;
 }
 }
+
 
 
 
